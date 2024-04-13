@@ -22,8 +22,9 @@ _Dependencies
 *.jar
 
 # Build results
-
 [Bb]in-obj/
+[Bb]in/
+[Bb]in-int/
 
 # Visual Studio 2015 cache/options directory
 .vs/
